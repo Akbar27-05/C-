@@ -1,0 +1,15 @@
+D:\C#\v11\bin\Debug\net7.0\v11.exe
+D:\C#\v11\bin\Debug\net7.0\v11.deps.json
+D:\C#\v11\bin\Debug\net7.0\v11.runtimeconfig.json
+D:\C#\v11\bin\Debug\net7.0\v11.dll
+D:\C#\v11\bin\Debug\net7.0\v11.pdb
+D:\C#\v11\obj\Debug\net7.0\v11.csproj.AssemblyReference.cache
+D:\C#\v11\obj\Debug\net7.0\v11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\v11\obj\Debug\net7.0\v11.AssemblyInfoInputs.cache
+D:\C#\v11\obj\Debug\net7.0\v11.AssemblyInfo.cs
+D:\C#\v11\obj\Debug\net7.0\v11.csproj.CoreCompileInputs.cache
+D:\C#\v11\obj\Debug\net7.0\v11.dll
+D:\C#\v11\obj\Debug\net7.0\refint\v11.dll
+D:\C#\v11\obj\Debug\net7.0\v11.pdb
+D:\C#\v11\obj\Debug\net7.0\v11.genruntimeconfig.cache
+D:\C#\v11\obj\Debug\net7.0\ref\v11.dll
